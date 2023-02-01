@@ -14,7 +14,7 @@ public class DataHelper {
     }
 
     public static AuthInfo getAuthInfo() {
-        return new AuthInfo("Anna", "qwerty123");
+        return new AuthInfo("vasya", "qwerty123");
     }
 
     @Value
